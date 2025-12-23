@@ -1,0 +1,7 @@
+{"timestamp": "2025-12-23T08:00:01Z", "source_ip": "192.168.1.10", "event": "user_login", "status": "success", "user": "admin"}
+{"timestamp": "2025-12-23T08:05:22Z", "source_ip": "45.33.22.11", "event": "ssh_auth", "status": "failed", "user": "root"}
+{"timestamp": "2025-12-23T08:05:23Z", "source_ip": "45.33.22.11", "event": "ssh_auth", "status": "failed", "user": "root"}
+{"timestamp": "2025-12-23T08:05:25Z", "source_ip": "45.33.22.11", "event": "ssh_auth", "status": "failed", "user": "root"}
+{"timestamp": "2025-12-23T08:05:28Z", "source_ip": "45.33.22.11", "event": "ssh_auth", "status": "failed", "user": "root"}
+{"timestamp": "2025-12-23T08:05:30Z", "source_ip": "45.33.22.11", "event": "ssh_auth", "status": "success", "user": "root"}
+{"timestamp": "2025-12-23T09:10:00Z", "source_ip": "10.0.0.5", "event": "file_access", "file": "/etc/shadow", "status": "denied"}
